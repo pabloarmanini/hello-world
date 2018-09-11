@@ -1,5 +1,5 @@
 # hello-world
 First repository..
 
-Primera modificación en el arcivo.
+Primera modificación en el archivo.
 
